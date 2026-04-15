@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Personal Event Planner</string>
+    <string name="title_events">Events</string>
+    <string name="title_add_event">Add Event</string>
+    <string name="title_update_event">Update Event</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_date">Date and Time</string>
+    <string name="btn_save_event">Save Event</string>
+    <string name="btn_update_event">Update Event</string>
+    <string name="error_mandatory_fields">Title and Date are mandatory</string>
+    <string name="error_past_date">Date cannot be in the past</string>
+    <string name="msg_event_deleted">Event deleted</string>
+    <string name="msg_event_saved">Event saved</string>
+    <string name="msg_event_updated">Event updated</string>
+    <string name="delete_event_description">Delete Event</string>
+</resources>
