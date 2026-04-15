@@ -40,9 +40,8 @@
    - Click the green **Run** button (▶️)
 
 7. 🎮 **Use the app**
-   
-1.Add Event: Navigate to the "Add Event" tab, fill in the details, and pick a future date using the Date/Time picker.
-2.View List: Go to the "Events" tab to see your schedule sorted chronologically.
-3.Edit: Tap on any existing event card to modify its details and click "Update".
-4.Delete: Click the trash icon on any event card to remove it from your database.
-5.Validation: Try saving an empty event or a past date to see the error feedback in action.
+   1. Add Event: Navigate to the "Add Event" tab, fill in the details, and pick a future date using the Date/Time picker.
+   2. View List: Go to the "Events" tab to see your schedule sorted chronologically.
+   3. Edit: Tap on any existing event card to modify its details and click "Update".
+   4. Delete: Click the trash icon on any event card to remove it from your database.
+   5. Validation: Try saving an empty event or a past date to see the error feedback in action.
